@@ -1,30 +1,135 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
-      "id": 1
+      "id": "1"
     },
     {
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
-      "id": 2
+      "id": "2"
+    },
+    {
+      "id": "93a0",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
+    },
+    {
+      "id": "fa27",
+      "dogName": "Byron",
+      "dogBreed": "Poodle"
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
-      "id": 1
+      "id": "1"
     },
     {
       "catName": "Gunnar",
       "catBreed": "American Shorthair",
-      "id": 2
+      "id": "2"
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "id": "7fca",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "fd25",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "afb4",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "fdf7",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "3c67",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "4007",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "baaa",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "10f6",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "f09e",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "7926",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "078a",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "aed2",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "f64d",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "3512",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "20ba",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "9313",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "7b62",
+      "name": "john",
+      "email": "@mail.com"
+    },
+    {
+      "id": "ba8d",
+      "name": "john",
+      "email": "@mail.com"
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": "9000"
+    }
+  ]
 }
